@@ -1,4 +1,4 @@
-'''x=['gmiu',123,'have a nice day']
+x=['gmiu',123,'have a nice day']
 print(x)
 
 y=['gmiu','bhavanagar','application','of','bscit']
@@ -17,10 +17,6 @@ print(q.isupper())
 
 e='wordew'
 print(e.count('w'))
-
-t='abcdefghijklmnopqrst'
-import sys
-print(sys.version)'''
 a=int(input('enter the value of a :'))
 if a>= 0:
     print('a is positive')
