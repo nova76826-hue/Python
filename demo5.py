@@ -1,7 +1,7 @@
 total = 0
 while True:
 
-    a = int(input("Select Category (1=Soups, 2=Salad, 3=Chinese, 4=Noodles, 0=Finish): "))
+    a = int(input("Select Category (1=Soups,2=Salad,3=Chinese,4=Noodles,0=Finish): "))
 
     if a == 0:
         break
